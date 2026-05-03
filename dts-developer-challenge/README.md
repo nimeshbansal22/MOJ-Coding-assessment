@@ -73,5 +73,3 @@ npm test
 *   **List Tasks:** Tasks are loaded on page load, automatically sorted by due date so the most pressing items are surfaced. Statistics automatically summarize totals at the top.
 *   **Update Task Status:** Inline dropdown on each task card updates the status (To Do, In Progress, Done) seamlessly.
 *   **Delete Task:** A delete button is provided, protected by a browser confirmation check.
-
-Enjoy reviewing the code!
